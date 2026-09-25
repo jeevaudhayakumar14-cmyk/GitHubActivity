@@ -1,3 +1,4 @@
 Git and GitHub Activity
 
 I am learning Git and GitHub.
+I practiced creating a feature branch in Git.
